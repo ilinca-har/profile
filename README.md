@@ -28,7 +28,7 @@ Stack tehnic
 ---
  Certificări & Learning
 - [ ] CompTIA Security+ *(în pregătire)*
-- [ ] TryHackMe — [profilul meu](https://tryhackme.com/p/ilincaharaga)
+- [ ] TryHackMe — [profilul meu](https://tryhackme.com/p/ili.h.f99)
 - [ ] HackTheBox — [profilul meu](https://profile.hackthebox.com/profile/019d8d16-b6b8-722b-a568-bc454429eeb4)
 ---
 Contact: 
